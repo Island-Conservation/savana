@@ -1,2 +1,2 @@
-# savana
-Repository for Savana, USVI data &amp; code
+# Savana
+Public repository for Savana, USVI Island Vital Sign XYZ tiles

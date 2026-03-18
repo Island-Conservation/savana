@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <kml xmlns="http://www.opengis.net/kml/2.2">
+      <Document>
+        <name>tmp_raster_75bc164b761e.tif</name>
+        <description></description>
+        <Style>
+          <ListStyle id="hideChildren">
+            <listItemType>checkHideChildren</listItemType>
+          </ListStyle>
+        </Style>
+        <NetworkLink>
+          <name>0/0/0.png</name>
+          <Region>
+            <LatLonAltBox>
+              <north>280.47875000014204</north>
+              <south>18.33475000000000</south>
+              <east>197.05875000014206</east>
+              <west>-65.08525000000000</west>
+            </LatLonAltBox>
+            <Lod>
+              <minLodPixels>128</minLodPixels>
+              <maxLodPixels>-1</maxLodPixels>
+            </Lod>
+          </Region>
+          <Link>
+            <href>0/0/0.kml</href>
+            <viewRefreshMode>onRegion</viewRefreshMode>
+            <viewFormat/>
+          </Link>
+        </NetworkLink>
+          </Document>
+    </kml>
+    
